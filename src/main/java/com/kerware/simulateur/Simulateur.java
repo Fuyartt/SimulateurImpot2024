@@ -23,7 +23,7 @@ package com.kerware.simulateur;
 
 public class Simulateur {
 
-
+    // testor
     // Les limites des tranches de revenus imposables
     private int l00 = 0 ;
     private int l01 = 11294;
